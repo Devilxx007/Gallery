@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.coolaryan007.gallery"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "34528e4e-7080-4feb-94a8-06eebe1cca45"
+      }
+    },
+    "owner": "coolaryan007"
   }
 }
